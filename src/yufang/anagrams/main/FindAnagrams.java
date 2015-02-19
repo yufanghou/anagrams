@@ -29,7 +29,7 @@ public class FindAnagrams {
                 } else {
                     System.out.println("the aragrams for " + input + " are:");
                     for (String s : result) {
-                        if (!(s.equalsIgnoreCase(input))) {
+                        if (!(s.equals(input))) {
                             System.out.println(s);
                         }
                     }
