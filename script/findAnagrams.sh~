@@ -1,0 +1,8 @@
+#!/bin/sh
+
+JAR=/home/yufang/yufang_anagrams/dist/yufang_anagrams.jar
+CONFIG=/home/yufang/yufang_anagrams/config/
+
+
+java -cp $JAR:$CONFIG yufang.anagrams.main.FindAnagrams 
+

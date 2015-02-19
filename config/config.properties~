@@ -1,0 +1,8 @@
+#current dic file
+current_dic_file = /home/yufang/yufang_anagrams/dic/dic.txt
+
+#input directory for creating a new dictionary
+dic_input_dir = /home/yufang/yufang_anagrams/dic/input/
+
+#output file for creating a new dictionary   
+dic_output_file = /home/yufang/NetBeansProjects/interview/yufang_anagrams/dic/output.txt
